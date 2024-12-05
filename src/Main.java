@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to Sang's Java Repository.");
+        System.out.println("Hello Sang.");
+        System.out.println("Welcome to my repository.");
     }
 }
